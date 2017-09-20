@@ -45,3 +45,4 @@ elsif speed(distance1, mins1) == speed(distance2, mins2) && speed(distance2, min
 end
 
 puts "Well done everyone!"
+puts "We even made the code faster to read too!! :P "
